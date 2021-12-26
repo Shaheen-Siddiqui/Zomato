@@ -1,0 +1,257 @@
+
+.box1{height: 500px;
+	width: 1270px;
+	background-color: pink;
+	background-image: url(opp.jpg);}
+	
+.btn1{height: 35px;
+	width: 150px;
+	position: relative;
+	top: -480px;
+	left: 850px;
+	font-weight: bolder;
+	background-color: transparent;
+	font-size: 25px;
+	color: whitesmoke;
+
+
+}.btn2{height: 35px;
+	width: 250px;
+	position: relative;
+	top: -480px;
+	float: right;
+    font-weight: bolder;
+	background-color: transparent;
+	font-size: 25px;
+	color: whitesmoke;
+
+}
+
+}
+.acc{background-color: ;
+	height: 40px;
+	width: 250px;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 25px;
+	position: absolute;
+	border-radius: 5px;
+	top: 15px;
+	left: 1000px;}
+
+.red{height: 90px;
+	width: 230px;
+	background-color: red;
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	position: relative;
+	top: -450px;
+	left: 500px;
+	border-radius: 20px;}
+
+.pera1{position: relative;
+	text-decoration: underline red;
+	top: 20px;}
+
+.pera2{
+	font-family:serif ;
+	font-style: italic;
+	font-size: 40px;
+	position: relative;
+	top: -420px;
+	font-weight: bolder;
+	text-align: center;
+	letter-spacing: 1px;
+	border-radius: 90px;
+	width: 895px;
+	left: 200px;
+	color: whitesmoke;
+
+}
+
+.mil{position: relative;
+	top: -370px;
+	height: 40px;
+	width: 230px;
+	left: 100px;
+	font-weight: bolder;
+	font-size: 15px;
+	border-radius: 10px;
+}
+
+.ser{height: 35px;
+	width: 690px;
+	border-radius: 10px;
+	position: relative;
+	top: -370px;
+	font-size: 15px;
+	left: 19rem;
+	font-weight: bolder;
+
+}
+
+.btn{height: 37px;
+	width: 150px;
+	border-radius: 10px;
+	position: relative;
+	top: -370px;
+	left:820px;
+	background-color:royalblue;
+	font-size: 15px;
+
+}
+
+.pera3{font-size: 50px;
+	position: absolute;
+	top: 530px;
+ }
+.pera4{font-size: 30px;
+	color: green;
+	position: relative;
+	top: -190px;
+	
+
+}
+.d1{height: 160px;
+	width: 430px;
+	background-color: hotpink;
+	border: 2px solid blue;
+	position: absolute;
+	top: 700px;}
+
+.d2{height: 160px;
+	width: 210px;
+	background-color: black;
+	background-image: url(sec.jpg)}
+
+
+.d3{height: 160px;
+	width: 430px;
+	background-color: red;
+	position: absolute;
+	border: 2px solid black;
+	top: 700px;
+	left: 430px;}
+
+.d4{height: 160px;
+	width: 210px;
+	background-color: blue;
+	background-image: url(thir.jpg);
+	left: 430px;}
+
+
+.d5{height: 160px;
+	width: 430px;
+	background-color: yellow;
+	position: absolute;
+	border: 2px solid blue;
+	top: 700px;
+	left: 850px;}
+
+.d6{height: 160px;
+	width: 210px;
+	background-color: hotpink;
+	background-image: url(four.jpeg);
+	left: 850px;}
+
+.p1{position: absolute;
+	left: 220px;
+	font-weight: bolder;
+	font-size: 25px;}
+.p2{position: absolute;
+	left: 220px;
+	font-size: 23px;
+	top: 40px;}
+
+.p3{position: absolute;
+	left: 220px;
+	font-weight: bolder;
+	font-size: 25px;}
+.p4{position: absolute;
+	left: 220px;
+	font-size: 23px;
+	top: 40px;}
+
+
+
+.p5{position: absolute;
+	left: 220px;
+	font-weight: bolder;
+	font-size: 25px;}
+.p6{position: absolute;
+	left: 220px;
+	font-size: 23px;
+	top: 40px;}
+
+.d7{height: 160px;
+	width: 425px;
+	border: 1px solid blue;
+	background-color: grey;}
+
+.d8{height: 160px;
+	width: 210px;
+	background-color: blue;
+	background-image: url(ee.jpg);
+	top: 300px;
+	left: 430px;}
+
+
+
+.d9{height: 160px;
+	width: 425px;
+	position: relative;
+	top: -160px;
+	border: 1px solid black;
+	left: 425px;
+	background-color: royalblue;}
+
+.d10{height: 160px;
+	width: 210px;
+	background-color: blue;
+	background-image: url(add.jpg);
+	left: 430px;}
+
+
+.d11{height: 160px;
+	width: 425px;
+	position: relative;
+	top: -320px;
+	left: 850px;
+	border: 1px solid blue;
+	background-color: rosybrown;}
+
+.d12{height: 160px;
+	width: 210px;
+	background-color: blue;
+	background-image: url(aff.jpeg);
+	left: 430px;}
+
+.mar{background-color: lightblue;
+	position: relative;
+	top: -360px;
+	height: 150px;
+	font-size: 45px;
+	border: 5px solid blue;
+
+}
+
+.avi{
+	font-size: 45px;
+	text-align: center;
+	color: saddlebrown;
+	position: relative;
+	top: -16rem;
+	font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
